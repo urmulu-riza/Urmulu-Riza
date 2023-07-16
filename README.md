@@ -1,4 +1,5 @@
-## Hi there 👋 I’m Riza <!--[Riza](https://urmulu-riza.github.io/portfolio/) <img  alt='Azerbaijan' title='Azerbaijan' src="https://flagicons.lipis.dev/flags/4x3/az.svg" height="17" width="27"><img alt='Türkiye' title='Türkiye' src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" height="17" width="27"> <img alt='İran' title='İran' src="https://flagicons.lipis.dev/flags/4x3/ir.svg" height="10" width="15">
+## Hi there 👋 I’m Riza 
+<!--[Riza](https://urmulu-riza.github.io/portfolio/) <img  alt='Azerbaijan' title='Azerbaijan' src="https://flagicons.lipis.dev/flags/4x3/az.svg" height="17" width="27"><img alt='Türkiye' title='Türkiye' src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" height="17" width="27"> <img alt='İran' title='İran' src="https://flagicons.lipis.dev/flags/4x3/ir.svg" height="10" width="15">
 -->
 <br/>
 
